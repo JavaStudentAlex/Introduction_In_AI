@@ -1,0 +1,2 @@
+# Introduction in AI
+This subject is included as mandatory for the "Extended Artificial Intelligence" master course at the University of Würzburg. This is totally based on "Artificial Intelligence A Modern Approach" book. You will find it in the Literature directory.
